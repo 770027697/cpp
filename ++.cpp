@@ -1,4 +1,3 @@
-//cs
 #include<iostream>
 using namespace std;
 
